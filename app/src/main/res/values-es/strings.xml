@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">localisation</string>
+    <string name="title">misión1</string>
+    <string name="hello_world">Hola Mundo!</string>
+</resources>
